@@ -160,6 +160,10 @@ The final dashboard displays:
 - Enter test data and click submit.  
 - Check DynamoDB → Glue → SageMaker pipeline for workflow completion.  
 - View prediction results on dashboard.
+  
+- https://wellifyyyy.s3.ap-south-1.amazonaws.com/index.html
+
+- https://wellifyyyy.s3.ap-south-1.amazonaws.com/dashboard.html
 
 ---
 
